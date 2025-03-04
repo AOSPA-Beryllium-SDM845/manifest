@@ -77,7 +77,7 @@
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
-  <project path="frameworks/av" name="AOSPA/android_frameworks_av" remote="aospa" />
+  <project path="frameworks/av" name="AOSPA-Beryllium-SDM845/android_frameworks_av" remote="aospa" />
   <remove-project name="platform/frameworks/base" />
   <project path="frameworks/base" name="AOSPA-Beryllium-SDM845/android_frameworks_base" remote="aospa" />
   <remove-project name="platform/frameworks/libs/systemui" />
